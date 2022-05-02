@@ -2,6 +2,7 @@
 Command line tool to find files in the current directory and/or its subfolders. Also supports regex and extensions.
 
 Compile: javac FilesFinder.java
+
 Usage: java -reg [Regex] [or] [FileName] -ext [extension, e.g. "txt"]
 
 OpenJDK version: "11.0.8" 2020-07-14
